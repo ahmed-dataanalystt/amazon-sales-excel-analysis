@@ -46,8 +46,10 @@ Order-level sales export, one row per order line. Amounts are in **INR**.
 
 ## Files
 
-The workbook is about 35 MB, which is too large for GitHub's website, so it's hosted on Google Drive:
-**[Open the Excel workbook](https://drive.google.com/drive/folders/1Ly68cS4gfLfgVa67J-eX8UPeJ7sajl-U)**
+| File | Description |
+|---|---|
+| [`Amazon_Sales.xlsx`](Amazon_Sales.xlsx) | The full workbook (27 MB): `Sales_Data`, `Pivots`, `Dashboard` and `Chart_Data` sheets. Click **View raw** to download it. |
+| `dashboard.png` | Dashboard screenshot |
 
 ---
 
